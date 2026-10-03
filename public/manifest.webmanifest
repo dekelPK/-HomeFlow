@@ -1,0 +1,11 @@
+{
+  "name": "HomeFlow · תקציב משק הבית",
+  "short_name": "HomeFlow",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f2",
+  "theme_color": "#0f766e",
+  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }]
+}
